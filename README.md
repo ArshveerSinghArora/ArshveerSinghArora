@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asaarshveer7891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asaarshveer7891" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@arshveersingharora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@arshveersingharora" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@arshveersingharora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arshveer-singh-arora-9b4a24222/" height="30" width="40" /></a>
 <a href="https://instagram.com/@thenameisasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@thenameisasa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/asa - arshveer singh arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asa - arshveer singh arora" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arshveersa789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arshveersa789" height="30" width="40" /></a>
