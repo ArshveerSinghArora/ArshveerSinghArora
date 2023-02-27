@@ -1,4 +1,3 @@
-[![MasterHead](https://media1.thehungryjpeg.com/thumbs2/ori_3751672_6zjhvvwa8416z00x5r5x75t6ihp0ms19m0c8r0g6_data-scientist-worker-minimal-infographic-banner-vector.jpg)](https://arshveersingharora.io)
 <h1 align="center">Hi 👋, I'm Arshveer Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding & Research" width="400" img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
