@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshveer Singh</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A Data Analyst from India</h3>
 <img align="right" alt="Coding & Research" width="400" img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <a href="https://twitter.com/asaarshveer7891" target="blank"><img src="https://img.shields.io/twitter/follow/asaarshveer7891?logo=twitter&style=for-the-badge" alt="asaarshveer7891" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **more on data science**
 
-- 💬 Ask me about **Python, data science & machine learing**
+- 💬 Ask me about **Python, data analysis & machine learing**
 
 - 📫 How to reach me **arshveersa7891@gmail.com**
 
