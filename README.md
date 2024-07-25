@@ -1,4 +1,4 @@
-<h1 align="center">Hey Welcome to my Profile, Myself Arshveer Singh Arora 😊</h1>
+<h1 align="center">Hey Welcome to my Profile, myself Arshveer Singh Arora 😊</h1>
 <h3 align="center">A Data Analyst from India</h3>
 
 <img align="right" alt="Coding & Research" width="400" img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
