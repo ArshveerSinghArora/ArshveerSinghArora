@@ -30,7 +30,7 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.O7wkuQHWHFETVuJkabKzjgAAAA?rs=1&pid=ImgDetMain" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=96&id=xSkewUSqtErH&format=png" alt="pandas" width="40" height="40"/> </a> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/0-2520_python-programming-language-logo-png-transparent-png.png" alt="python" width="40" height="40"/> </a> 
 
