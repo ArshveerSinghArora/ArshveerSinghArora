@@ -16,7 +16,7 @@
 
 ## Connect With Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/arshveer-singh-arora-9b4a24222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@arshveersingharora" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arshveer-singh-arora-9b4a24222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@arshveersingharora" height="30" width="40" /> </a>
 <a href="https://www.instagram.com/thenameisasa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@thenameisasa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCHB2yIVWDMThfFgf5yyfb5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ASA - Arshveer Singh Arora" height="30" width="40" /></a>
 </p>
