@@ -34,9 +34,9 @@
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/0-2520_python-programming-language-logo-png-transparent-png.png" alt="python" width="40" height="40"/> </a> 
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector.jpg" alt="scikit_learn" width="40" height="40"/> </a> 
 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.23y8YxOIXXLSWPs1-EDoNQAAAA?w=419&h=412&rs=1&pid=ImgDetMain" alt="seaborn" width="40" height="40"/> </a>
 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" width="40" height="40"/>
 </a>
