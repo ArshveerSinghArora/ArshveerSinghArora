@@ -1,8 +1,11 @@
 <h1 align="center">Hey Welcome to my Profile, myself Arshveer Singh Arora 😊</h1>
 <h3 align="center">A Data Analyst from India</h3>
 
-<img align="right" alt="Coding & Research" width="400" img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding & Research" width="400" img src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/data_inform_illustration_animation.gif">
+
 <p align="left"> <a href="https://twitter.com/asaarshveer7891" target="blank"><img src="https://img.shields.io/twitter/follow/asaarshveer7891?logo=twitter&style=for-the-badge" alt="asaarshveer7891" /></a> </p>
+
+- 🏢 Working as **Buisness Intelligence Intern** at **Celebal Technologies** since **August 2024**
 
 - 🌱 I’m currently learning **at aiming at improvisation rather than perfection**
 
