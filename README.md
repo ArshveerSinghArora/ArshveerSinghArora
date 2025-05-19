@@ -1,4 +1,4 @@
-<h1 align="center">Hey Welcome to my Profile, myself Arshveer Singh Arora 😊</h1>
+<h1 align="center">Hey welcome to my profile, myself *Arshveer Singh Arora* </h1>
 <h3 align="center">Associate in  Business Intelligence from India</h3>
 
 <img align="right" alt="Coding & Research" width="400" img src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/data_inform_illustration_animation.gif">
