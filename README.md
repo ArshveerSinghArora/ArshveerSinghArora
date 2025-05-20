@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/asaarshveer7891" target="blank"><img src="https://img.shields.io/twitter/follow/asaarshveer7891?logo=twitter&style=for-the-badge" alt="asaarshveer7891" /></a> </p>
 
-- 🏢 Working as **Associate Buisness Intelligence ** at **Celebal Technologies** since **May 2025**
+- 🏢 Working as **Associate Buisness Intelligence** at **Celebal Technologies** since **May 2025**
 
 - 🌱 I’m currently learning **at aiming at improvisation rather than perfection**
 
